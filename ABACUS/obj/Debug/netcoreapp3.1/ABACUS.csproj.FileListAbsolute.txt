@@ -1,0 +1,15 @@
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\bin\Debug\netcoreapp3.1\ABACUS.exe
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\bin\Debug\netcoreapp3.1\ABACUS.deps.json
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\bin\Debug\netcoreapp3.1\ABACUS.runtimeconfig.json
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\bin\Debug\netcoreapp3.1\ABACUS.runtimeconfig.dev.json
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\bin\Debug\netcoreapp3.1\ABACUS.dll
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\bin\Debug\netcoreapp3.1\ABACUS.pdb
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.csprojAssemblyReference.cache
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.AssemblyInfoInputs.cache
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.AssemblyInfo.cs
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.csproj.CoreCompileInputs.cache
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.dll
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.pdb
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.genruntimeconfig.cache
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.Form1.resources
+C:\Users\chinna\Source\Repos\ABACUS\ABACUS\obj\Debug\netcoreapp3.1\ABACUS.csproj.GenerateResource.cache
